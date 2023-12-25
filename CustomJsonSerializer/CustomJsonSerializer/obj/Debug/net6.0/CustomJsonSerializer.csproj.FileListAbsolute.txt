@@ -1,0 +1,17 @@
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\bin\Debug\net6.0\CustomJsonSerializer.exe
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\bin\Debug\net6.0\CustomJsonSerializer.deps.json
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\bin\Debug\net6.0\CustomJsonSerializer.runtimeconfig.json
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\bin\Debug\net6.0\CustomJsonSerializer.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\bin\Debug\net6.0\CustomJsonSerializer.pdb
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\obj\Debug\net6.0\CustomJsonSerializer.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\obj\Debug\net6.0\CustomJsonSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\obj\Debug\net6.0\CustomJsonSerializer.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\obj\Debug\net6.0\CustomJsonSerializer.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\obj\Debug\net6.0\CustomJsonSerializer.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\obj\Debug\net6.0\CustomJsonSerializer.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\obj\Debug\net6.0\refint\CustomJsonSerializer.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\obj\Debug\net6.0\CustomJsonSerializer.pdb
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\obj\Debug\net6.0\CustomJsonSerializer.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\obj\Debug\net6.0\ref\CustomJsonSerializer.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\CustomJsonSerializer\CustomJsonSerializer\obj\Debug\net6.0\CustomJsonSerializer.csproj.CopyComplete
